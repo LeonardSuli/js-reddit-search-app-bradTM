@@ -1,0 +1,19 @@
+{
+  "name": "js-reddit-search-app-bradtm",
+  "version": "1.0.0",
+  "description": "Reddit search app",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonardSuli/js-reddit-search-app-bradTM.git"
+  },
+  "author": "Leo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonardSuli/js-reddit-search-app-bradTM/issues"
+  },
+  "homepage": "https://github.com/LeonardSuli/js-reddit-search-app-bradTM#readme"
+}
